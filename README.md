@@ -17,3 +17,6 @@
 3. Connect Remix to MetaMask using Injected Provider.
 4. Deploy smart contracts for game functionalities.
 5. Test the application and interact with deployed contracts using Remix.
+
+# License
+This project is licensed under the MIT License.
